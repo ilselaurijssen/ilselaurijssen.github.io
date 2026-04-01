@@ -34,11 +34,11 @@ author:
   email            : "Ilse.Laurijssen@vub.be" 
 
   # Academic websites
-  'Vrije Universiteit Brussel profile page' : "https://researchportal.vub.be/en/persons/ilse-laurijssen/"
+  VUB'             : "https://researchportal.vub.be/en/persons/ilse-laurijssen"
   googlescholar    : "https://scholar.google.com/citations?user=xpooTDUAAAAJ&hl=en"
   orcid            : "https://orcid.org/0000-0002-2961-9558"
   scopus           : # "https://www.scopus.com/authid/detail.uri?authorId=36027617000"
-  'Steunpunt Centrale Toetsen in Onderwijs': "https://steunpunttoetsen.be/"
+  CTO              : "https://steunpunttoetsen.be"
 
 
   # Repositories and software development
@@ -54,13 +54,13 @@ author:
 
 
 # Publication Category - The following the list of publication categories and their headings
-publication_category:
-  books:
-    title: 'Books'
-  manuscripts:
-    title: 'Journal Articles'    
-  conferences:
-    title: 'Conference Papers'
+#publication_category:
+#  books:
+#    title: 'Books'
+#  manuscripts:
+#    title: 'Journal Articles'    
+#  conferences:
+#    title: 'Conference Papers'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
