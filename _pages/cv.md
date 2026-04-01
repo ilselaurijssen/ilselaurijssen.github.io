@@ -62,7 +62,10 @@ Major research projects
 * Steunpunt Studie- en Schoolloopbanen (SSL) (2007–2016)
 * SONAR longitudinal survey on school-to-work transitions
 * Time Use Research Projects (TOR)
-These projects involved large-scale survey data, administrative datasets and interdisciplinary research collaborations.
+
+These projects involved interdisciplinary research and interuniversity collaborations and the management and analysis of complex datasets combining large-scale survey data and administrative datasets.
+
+{% comment %}
 
 Publications
 ------
@@ -76,6 +79,7 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
+{% endcomment %}  
 Teaching
 ------
   <ul>{% for post in site.teaching reversed %}
