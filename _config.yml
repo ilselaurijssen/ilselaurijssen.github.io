@@ -26,22 +26,24 @@ author:
   avatar           : "profile.png"
   name             : ""
   pronouns         : # example: "she/her"  
-  bio              : "Sociologist and team leader for the analysis of Flemish central tests in education"
+  bio              : "Sociologist at BRIO (VUB) <br/>Team leader for the analysis of Flemish central tests in education"
   location         : #"Earth"
   employer         : "Vrije Universiteit Brussel"
+  research group   : "BRIO"
   uri              : # URL
   email            : "Ilse.Laurijssen@vub.be" 
 
   # Academic websites
-  Vrije Universiteit Brussel profile page : https://researchportal.vub.be/en/persons/ilse-laurijssen/
+  'Vrije Universiteit Brussel profile page' : "https://researchportal.vub.be/en/persons/ilse-laurijssen/"
   googlescholar    : "https://scholar.google.com/citations?user=xpooTDUAAAAJ&hl=en"
   orcid            : "https://orcid.org/0000-0002-2961-9558"
   scopus           : # "https://www.scopus.com/authid/detail.uri?authorId=36027617000"
+  'Steunpunt Centrale Toetsen in Onderwijs': "https://steunpunttoetsen.be/"
 
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
-  github           : "ilselaurijssen"
+  github           : # "ilselaurijssen"
 
   # Social media
   artstation       : # Username
