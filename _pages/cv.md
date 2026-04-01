@@ -10,14 +10,14 @@ redirect_from:
 {% include base_path %}
 
 Education
-======
+------
 * Ph.D in Social Sciences (Sociology), Vrije Universiteit Brussel, 2012
   * Dissertation: Divided between Work and Family. A panel study into the context and dynamics of the choice of part-time work
 * Master of Science in Sociology, Ghent University, 1998 (cum laude)
 * Bachelor in Political and Social Sciences (Sociology), Ghent University, 1996 (magna cum laude)
 
 Academic positions
-======
+------
 * 2021 – present
   * Research Fellow
   * Research Group BRIO (DFUTURE), Vrije Universiteit Brussel
@@ -44,7 +44,7 @@ Academic positions
   * Interuniversitair Instituut voor de Studie van de Arbeid (IISA), Brussels
   
 Research expertise
-======
+------
 * longitudinal data analysis and panel data methods
 * large-scale educational datasets and administrative databases
 * educational inequality and school-to-work transitions
@@ -54,7 +54,7 @@ Research expertise
 * coordination within inter-university consortia
 
 Major research projects
-======
+------
 * Steunpunt Centrale Toetsen in Onderwijs (2021–present)
   * Development and analysis of population-wide educational assessment data in Flanders.
 * Steunpunt Hoger Onderwijs (VUB) (2019-2021)
@@ -65,23 +65,20 @@ Major research projects
 These projects involved large-scale survey data, administrative datasets and interdisciplinary research collaborations.
 
 Publications
-======
+------
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 Talks
-======
+------
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
 Teaching
-======
+------
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
