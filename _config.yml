@@ -23,7 +23,7 @@ repository               : "ilselaurijssen/github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile-photo.jpg"
   name             : ""
   pronouns         : # example: "she/her"  
   bio              : "Sociologist at BRIO (VUB) <br/>Team leader for the analysis of Flemish central tests in education"
