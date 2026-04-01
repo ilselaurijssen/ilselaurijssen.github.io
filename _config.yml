@@ -45,7 +45,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # "bsky.app" # Replace this with you Bluesky username
   linkedin         : # Username
   telegram         : # URL
   twitter          : # Username for X / Twitter
