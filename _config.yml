@@ -23,7 +23,7 @@ repository               : "ilselaurijssen/github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile-photo.jpg"
+  avatar           : "images/profile-photo.jpg"
   name             : ""
   pronouns         : # example: "she/her"  
   bio              : "Sociologist at BRIO (VUB) <br/>Team leader for the analysis of Flemish central tests in education"
@@ -34,7 +34,7 @@ author:
   email            : "Ilse.Laurijssen@vub.be" 
 
   # Academic websites
-  VUB'             : "https://researchportal.vub.be/en/persons/ilse-laurijssen"
+  VUB              : "https://researchportal.vub.be/en/persons/ilse-laurijssen"
   googlescholar    : "https://scholar.google.com/citations?user=xpooTDUAAAAJ&hl=en"
   orcid            : "https://orcid.org/0000-0002-2961-9558"
   scopus           : # "https://www.scopus.com/authid/detail.uri?authorId=36027617000"
@@ -192,18 +192,18 @@ kramdown:
 
 # These settings control the types of collections used by the template
 collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
+#  teaching:
+#    output: true
+#    permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
+#  portfolio:
+#    output: true
+#    permalink: /:collection/:path/
+#  talks:
+#    output: true
+#    permalink: /:collection/:path/
 
 
 # These settings control how pages and collections are included in the site
