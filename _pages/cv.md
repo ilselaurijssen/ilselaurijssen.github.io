@@ -11,35 +11,58 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Social Sciences (Sociology), Vrije Universiteit Brussel, 2012
+  * Dissertation: Divided between Work and Family. A panel study into the context and dynamics of the choice of part-time work
+* Master of Science in Sociology, Ghent University, 1998 (cum laude)
+* Bachelor in Political and Social Sciences (Sociology), Ghent University, 1996 (magna cum laude)
 
-Work experience
+Academic positions
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2021 – present
+  * Research Fellow
+  * Research Group BRIO (DFUTURE), Vrije Universiteit Brussel
+  * Data analysis coordinator, Steunpunt Centrale Toetsen in Onderwijs
+* 2024 – 2025
+  * Substitute lecturer on Sociology
+  * Department of Economics (Brussel), KULeuven
+* 2014 – 2021
+  * Research Fellow
+  * Research Group TOR / BRISPO, Vrije Universiteit Brussel
+* 2018 – 2019
+  * Substitute lecturer on Sociology of Time and Time Order
+  * Department of Sociology, Vrije Universiteit Brussel
+* 2012 – 2014
+  * Postdoctoral Assistant
+  * Substitute lecturer on Advanced methods for data analysis in the social sciences
+  * Teaching assistance in Seminar Sociology I
+  * Department of Sociology, Vrije Universiteit Brussel
+* 2000 – 2012
+  * Research Fellow
+  * Research Group TOR, Vrije Universiteit Brussel
+* 1998 – 2000
+  * Research Fellow
+  * Interuniversitair Instituut voor de Studie van de Arbeid (IISA), Brussels
   
-Skills
+Research expertise
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* longitudinal data analysis and panel data methods
+* large-scale educational datasets and administrative databases
+* educational inequality and school-to-work transitions
+* methodological interpretation of educational performance indicators
+* development and management of complex data infrastructures
+* policy-oriented research and valorisation
+* coordination within inter-university consortia
+
+Major research projects
+======
+* Steunpunt Centrale Toetsen in Onderwijs (2021–present)
+  * Development and analysis of population-wide educational assessment data in Flanders.
+* Steunpunt Hoger Onderwijs (VUB) (2019-2021)
+* Steunpunt Onderwijsonderzoek (SONO) (2016–2020)
+* Steunpunt Studie- en Schoolloopbanen (SSL) (2007–2016)
+* SONAR longitudinal survey on school-to-work transitions
+* Time Use Research Projects (TOR)
+These projects involved large-scale survey data, administrative datasets and interdisciplinary research collaborations.
 
 Publications
 ======
